@@ -9,7 +9,7 @@
 - ⚙️ I use daily: `react`, `js`, `html`, `css`,`windows`,`ubuntu` .
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **react**, **ui**, **development**, **design**
-- 📫 Reach me: [https://twitter.com/_yathee_](https://twitter.com/_yathee_)
+- 📫 Reach me: [twitter](https://twitter.com/_yathee_)
 - ⚡️ Fun fact: I like to travel 
 
 #### SKILLS 
